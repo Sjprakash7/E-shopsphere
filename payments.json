@@ -1,0 +1,35 @@
+[
+  { "id": "PAY-2001", "customer": "Rahul Sharma", "method": "UPI", "amount": 2499, "status": "Success", "date": "2025-01-02" },
+  { "id": "PAY-2002", "customer": "Amit Verma", "method": "Card", "amount": 3999, "status": "Pending", "date": "2025-01-03" },
+  { "id": "PAY-2003", "customer": "Neha Singh", "method": "Cash", "amount": 1999, "status": "Success", "date": "2025-01-04" },
+  { "id": "PAY-2004", "customer": "Priya Patel", "method": "UPI", "amount": 1499, "status": "Success", "date": "2025-01-05" },
+  { "id": "PAY-2005", "customer": "Rohit Mehta", "method": "Card", "amount": 3499, "status": "Success", "date": "2025-01-06" },
+  { "id": "PAY-2006", "customer": "Anjali Rao", "method": "UPI", "amount": 1899, "status": "Success", "date": "2025-01-07" },
+  { "id": "PAY-2007", "customer": "Suresh Kumar", "method": "Cash", "amount": 999, "status": "Pending", "date": "2025-01-08" },
+  { "id": "PAY-2008", "customer": "Kiran Das", "method": "Card", "amount": 2299, "status": "Success", "date": "2025-01-09" },
+  { "id": "PAY-2009", "customer": "Vikas Jain", "method": "UPI", "amount": 4999, "status": "Success", "date": "2025-01-10" },
+  { "id": "PAY-2010", "customer": "Rahul Sharma", "method": "Cash", "amount": 1299, "status": "Success", "date": "2025-01-11" },
+
+  { "id": "PAY-2011", "customer": "Amit Verma", "method": "UPI", "amount": 1599, "status": "Pending", "date": "2025-01-12" },
+  { "id": "PAY-2012", "customer": "Neha Singh", "method": "Card", "amount": 2699, "status": "Success", "date": "2025-01-13" },
+  { "id": "PAY-2013", "customer": "Priya Patel", "method": "Cash", "amount": 1899, "status": "Success", "date": "2025-01-14" },
+  { "id": "PAY-2014", "customer": "Rohit Mehta", "method": "UPI", "amount": 3299, "status": "Success", "date": "2025-01-15" },
+  { "id": "PAY-2015", "customer": "Anjali Rao", "method": "Card", "amount": 1499, "status": "Pending", "date": "2025-01-16" },
+  { "id": "PAY-2016", "customer": "Suresh Kumar", "method": "UPI", "amount": 999, "status": "Success", "date": "2025-01-17" },
+  { "id": "PAY-2017", "customer": "Kiran Das", "method": "Cash", "amount": 2199, "status": "Success", "date": "2025-01-18" },
+  { "id": "PAY-2018", "customer": "Vikas Jain", "method": "Card", "amount": 4599, "status": "Success", "date": "2025-01-19" },
+  { "id": "PAY-2019", "customer": "Rahul Sharma", "method": "UPI", "amount": 2799, "status": "Pending", "date": "2025-01-20" },
+  { "id": "PAY-2020", "customer": "Amit Verma", "method": "Cash", "amount": 1199, "status": "Success", "date": "2025-01-21" },
+
+  { "id": "PAY-2021", "customer": "Neha Singh", "method": "UPI", "amount": 2399, "status": "Success", "date": "2025-01-22" },
+  { "id": "PAY-2022", "customer": "Priya Patel", "method": "Card", "amount": 1599, "status": "Pending", "date": "2025-01-23" },
+  { "id": "PAY-2023", "customer": "Rohit Mehta", "method": "Cash", "amount": 3499, "status": "Success", "date": "2025-01-24" },
+  { "id": "PAY-2024", "customer": "Anjali Rao", "method": "UPI", "amount": 1899, "status": "Success", "date": "2025-01-25" },
+  { "id": "PAY-2025", "customer": "Suresh Kumar", "method": "Card", "amount": 1299, "status": "Pending", "date": "2025-01-26" },
+  { "id": "PAY-2026", "customer": "Kiran Das", "method": "UPI", "amount": 2099, "status": "Success", "date": "2025-01-27" },
+  { "id": "PAY-2027", "customer": "Vikas Jain", "method": "Cash", "amount": 4899, "status": "Success", "date": "2025-01-28" },
+  { "id": "PAY-2028", "customer": "Rahul Sharma", "method": "Card", "amount": 2599, "status": "Success", "date": "2025-01-29" },
+  { "id": "PAY-2029", "customer": "Amit Verma", "method": "UPI", "amount": 1399, "status": "Pending", "date": "2025-01-30" },
+  { "id": "PAY-2030", "customer": "Neha Singh", "method": "Cash", "amount": 1899, "status": "Success", "date": "2025-01-31" }
+
+]

@@ -1,0 +1,330 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@shopsphere.com",
+      "password": "admin123",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Rahul Sharma",
+      "email": "rahul@mail.com",
+      "password": "123456",
+      "role": "Staff"
+    },
+    {
+      "id": 3,
+      "name": "Amit Verma",
+      "email": "amit@mail.com",
+      "password": "123456",
+      "role": "Staff"
+    },
+    {
+      "id": 4,
+      "name": "Neha Singh",
+      "email": "neha@mail.com",
+      "password": "123456",
+      "role": "Staff"
+    },
+    {
+      "id": 5,
+      "name": "Priya Patel",
+      "email": "priya@mail.com",
+      "password": "123456",
+      "role": "Staff"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 2499,
+      "image": "/images/products/headphones.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 3999,
+      "image": "/images/products/smartwatch.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "price": 1999,
+      "image": "/images/products/speaker.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Laptop Backpack",
+      "price": 1499,
+      "image": "/images/products/backpack.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Gaming Mouse",
+      "price": 1299,
+      "image": "/images/products/mouse.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mechanical Keyboard",
+      "price": 3499,
+      "image": "/images/products/keyboard.jpg"
+    },
+    {
+      "id": 7,
+      "name": "USB-C Hub",
+      "price": 1899,
+      "image": "/images/products/hub.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Power Bank 20000mAh",
+      "price": 2299,
+      "image": "/images/products/powerbank.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Wireless Charger",
+      "price": 1599,
+      "image": "/images/products/charger.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Noise Cancelling Earbuds",
+      "price": 4999,
+      "image": "/images/products/earbuds.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Smart LED Bulb",
+      "price": 899,
+      "image": "/images/products/bulb.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Fitness Band",
+      "price": 1799,
+      "image": "/images/products/band.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Tablet Stand",
+      "price": 999,
+      "image": "/images/products/stand.jpg"
+    },
+    {
+      "id": 14,
+      "name": "External SSD 1TB",
+      "price": 8999,
+      "image": "/images/products/ssd.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Webcam HD",
+      "price": 2499,
+      "image": "/images/products/webcam.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Office Chair",
+      "price": 7999,
+      "image": "/images/products/chair.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Desk Lamp",
+      "price": 1299,
+      "image": "/images/products/lamp.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Monitor 27-inch",
+      "price": 18999,
+      "image": "/images/products/monitor.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Laptop Cooling Pad",
+      "price": 1499,
+      "image": "/images/products/coolingpad.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Smart Plug",
+      "price": 1199,
+      "image": "/images/products/plug.jpg"
+    },
+    {
+      "id": "3d36",
+      "name": "ghfg",
+      "price": "342",
+      "image": "blob:http://localhost:5181/eb632cce-d7e2-422c-8304-9a766087a31c"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1001,
+      "orderNo": "ORD-1001",
+      "customer": "Rahul Sharma",
+      "date": "2025-01-02",
+      "amount": 2499,
+      "status": "Delivered"
+    },
+    {
+      "id": 1002,
+      "orderNo": "ORD-1002",
+      "customer": "Amit Verma",
+      "date": "2025-01-03",
+      "amount": 3999,
+      "status": "Pending"
+    },
+    {
+      "id": 1003,
+      "orderNo": "ORD-1003",
+      "customer": "Neha Singh",
+      "date": "2025-01-04",
+      "amount": 1999,
+      "status": "Cancelled"
+    },
+    {
+      "id": 1004,
+      "orderNo": "ORD-1004",
+      "customer": "Priya Patel",
+      "date": "2025-01-05",
+      "amount": 1499,
+      "status": "Delivered"
+    },
+    {
+      "id": 1005,
+      "orderNo": "ORD-1005",
+      "customer": "Rohit Mehta",
+      "date": "2025-01-06",
+      "amount": 3499,
+      "status": "Delivered"
+    }
+  ],
+  "payments": [
+    {
+      "id": 2001,
+      "paymentNo": "PAY-2001",
+      "customer": "Rahul Sharma",
+      "method": "UPI",
+      "amount": 2499,
+      "status": "Success",
+      "date": "2025-01-02"
+    },
+    {
+      "id": 2002,
+      "paymentNo": "PAY-2002",
+      "customer": "Amit Verma",
+      "method": "Card",
+      "amount": 3999,
+      "status": "Pending",
+      "date": "2025-01-03"
+    },
+    {
+      "id": 2003,
+      "paymentNo": "PAY-2003",
+      "customer": "Neha Singh",
+      "method": "Cash",
+      "amount": 1999,
+      "status": "Success",
+      "date": "2025-01-04"
+    },
+    {
+      "id": 2004,
+      "paymentNo": "PAY-2004",
+      "customer": "Priya Patel",
+      "method": "UPI",
+      "amount": 1499,
+      "status": "Success",
+      "date": "2025-01-05"
+    },
+    {
+      "id": 2005,
+      "paymentNo": "PAY-2005",
+      "customer": "Rohit Mehta",
+      "method": "Card",
+      "amount": 3499,
+      "status": "Success",
+      "date": "2025-01-06"
+    }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "month": "January",
+      "orders": 120,
+      "revenue": 240000
+    },
+    {
+      "id": 2,
+      "month": "February",
+      "orders": 98,
+      "revenue": 198500
+    },
+    {
+      "id": 3,
+      "month": "March",
+      "orders": 140,
+      "revenue": 310000
+    },
+    {
+      "id": 4,
+      "month": "April",
+      "orders": 110,
+      "revenue": 225000
+    },
+    {
+      "id": 5,
+      "month": "May",
+      "orders": 160,
+      "revenue": 355000
+    },
+    {
+      "id": 6,
+      "month": "June",
+      "orders": 145,
+      "revenue": 330000
+    },
+    {
+      "id": 7,
+      "month": "July",
+      "orders": 170,
+      "revenue": 390000
+    },
+    {
+      "id": 8,
+      "month": "August",
+      "orders": 155,
+      "revenue": 360000
+    },
+    {
+      "id": 9,
+      "month": "September",
+      "orders": 130,
+      "revenue": 295000
+    },
+    {
+      "id": 10,
+      "month": "October",
+      "orders": 180,
+      "revenue": 420000
+    },
+    {
+      "id": 11,
+      "month": "November",
+      "orders": 200,
+      "revenue": 480000
+    },
+    {
+      "id": 12,
+      "month": "December",
+      "orders": 220,
+      "revenue": 550000
+    }
+  ]
+}

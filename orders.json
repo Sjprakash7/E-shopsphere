@@ -1,0 +1,14 @@
+[
+  { "orderId": "ORD-1001", "customer": "Rahul Sharma", "date": "2025-01-02", "amount": 2499, "status": "Delivered" },
+  { "orderId": "ORD-1002", "customer": "Amit Verma", "date": "2025-01-03", "amount": 3999, "status": "Pending" },
+  { "orderId": "ORD-1003", "customer": "Neha Singh", "date": "2025-01-04", "amount": 1999, "status": "Cancelled" },
+  { "orderId": "ORD-1004", "customer": "Priya Patel", "date": "2025-01-05", "amount": 1499, "status": "Delivered" },
+  { "orderId": "ORD-1005", "customer": "Rohit Mehta", "date": "2025-01-06", "amount": 3499, "status": "Delivered" },
+
+  { "orderId": "ORD-1006", "customer": "Anjali Rao", "date": "2025-01-07", "amount": 1299, "status": "Delivered" },
+  { "orderId": "ORD-1007", "customer": "Suresh Kumar", "date": "2025-01-08", "amount": 1899, "status": "Pending" },
+  { "orderId": "ORD-1008", "customer": "Kiran Das", "date": "2025-01-09", "amount": 2299, "status": "Delivered" },
+  { "orderId": "ORD-1009", "customer": "Vikas Jain", "date": "2025-01-10", "amount": 4999, "status": "Delivered" },
+  { "orderId": "ORD-1010", "customer": "Rahul Sharma", "date": "2025-01-11", "amount": 899, "status": "Delivered" }
+
+]
